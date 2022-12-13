@@ -24,6 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatouuuu&show_icons=true&locale=en" alt="fatouuuu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatouuuu&" alt="fatouuuu" /></p>
+
 <img align="left" src="https://wakatime.com/share/@fatouuuu/10d0b433-3cd1-46ac-9678-5da5dbafd505.svg" width="440" height="300">
 
 
