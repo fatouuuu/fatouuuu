@@ -1,5 +1,5 @@
 <h3 align="center"> 👋🏿 Hi, I'm Fatou</h3>
-<p align="center">Currently enrolled in Moringa School's Fullstack Software Engineering boot camp. I'm passionate about frontend development and looking forward to building my skill level and confidence while also creating work products I can show to potential employers down the road.</p>
+<p align="center">Currently enrolled in Moringa School's Fullstack Software Engineering boot camp. I'm passionate about frontend development and looking forward to building my skill level and confidence while also creating projects I can show to potential employers down the road.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatouuuu&label=Profile%20views&color=0e75b6&style=flat" alt="fatouuuu" /> </p>
 
