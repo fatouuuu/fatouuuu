@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ctrlaltfadumo" target="blank"><img src="https://img.shields.io/twitter/follow/ctrlaltfadumo?logo=twitter&style=for-the-badge" alt="ctrlaltfadumo" /></a> </p>
 
-- 🔭 I’m currently working on [a product preview card component, frontend mentor challenge](https://github.com/fatouuuu/product-preview-card-component)
+- 🔭 I’m currently working on [a product preview card component](https://github.com/fatouuuu/product-preview-card-component)
 
 - 🌱 I’m currently learning **JavaScript, React**
 
