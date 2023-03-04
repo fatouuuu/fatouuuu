@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a static site generator](https://github.com/fatouuuu/static-site-generator)
 
-- 🌱 I’m currently learning **Ruby** 
+- 🌱 I’m currently learning **Ruby, Ruby on Rails** 
 
 - 📫 How to reach me: **fatmaabdullrahim@gmail.com**
 
