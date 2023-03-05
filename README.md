@@ -34,8 +34,7 @@
 <br />
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fatouuuu&" alt="fatouuuu" /></p>
 
-<!-- <br />
-<img align="left" src="https://wakatime.com/share/@fatouuuu/10d0b433-3cd1-46ac-9678-5da5dbafd505.svg" width="440" height="300" style="border-radius:25px;"> -->
+ 
 
 
 
