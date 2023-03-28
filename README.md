@@ -1,5 +1,5 @@
 <h3 align="left"> 👋🏿 Hi, I'm Fatou</h3>
-<p align="left">Currently enrolled in Moringa School's Fullstack Software Engineering boot camp. I'm passionate about frontend development and looking forward to building my skill level and confidence while also creating projects I can show to potential employers down the road.</p>
+<p align="left">Currently enrolled in Moringa School's Fullstack Software Engineering boot camp. I'm passionate about frontend development and looking forward to building my skill level and confidence while creating projects I am passionate about.</p>
 
 
 - 🔭 I’m currently working on [a static site generator](https://github.com/fatouuuu/static-site-generator)
