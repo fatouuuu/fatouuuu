@@ -1,12 +1,12 @@
 <h3 align="left"> 👋🏿 Hi, I'm Fatou</h3>
-<p align="left">Currently enrolled in Moringa School's Fullstack Software Engineering boot camp. I'm passionate about frontend development and looking forward to building my skill level and confidence while creating projects I am passionate about.</p>
+<p align="left">I'm passionate about frontend development and looking forward to building my skill level and confidence by creating projects I am passionate about.</p>
 
 
-- 🔭 I’m currently working on [a static site generator](https://github.com/fatouuuu/static-site-generator)
+- 🔭 I’m currently working on [a weather dashboard]([https://github.com/fatouuuu/static-site-generator](https://github.com/fatouuuu/weather-dashboard)
 
-- 🌱 I’m currently learning **TypeScript** 
+- 🌱 I’m currently learning **Ruby on Rails** 
 
-- 📫 How to reach me: **fatmaabdullrahim@gmail.com**
+- 📫 How to reach me: **fatou.sahro@gmail.com**
 
 - <a href="https://twitter.com/ctrlaltfadumo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ctrlaltfadumo" height="15" width="15" /></a> Click on the bird icon, I'm documenting my learning journey in public
 
