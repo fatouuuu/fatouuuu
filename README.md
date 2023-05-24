@@ -2,7 +2,7 @@
 <p align="left">I'm passionate about frontend development and looking forward to building my skill level and confidence by creating projects I am passionate about.</p>
 
 
-- 🔭 I’m currently working on [a weather dashboard]([https://github.com/fatouuuu/static-site-generator](https://github.com/fatouuuu/weather-dashboard)
+- 🔭 I’m currently working on [a weather dashboard](https://github.com/fatouuuu/weather-dashboard)
 
 - 🌱 I’m currently learning **Ruby on Rails** 
 
