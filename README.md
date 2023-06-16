@@ -24,7 +24,7 @@
 <a href="https://wakatime.com/@f2abae52-01d8-428e-bf6e-2a7f29dbad69"><img src="https://wakatime.com/badge/user/f2abae52-01d8-428e-bf6e-2a7f29dbad69.svg" alt="Total time coded since Oct 25 2022" /></a>
 
 <br />
-<image src="https://wakatime.com/share/@fatouuuu/c91d29c9-26a4-4cbc-ad7b-a16d0672ed92.svg">
+<!-- <image src="https://wakatime.com/share/@fatouuuu/c91d29c9-26a4-4cbc-ad7b-a16d0672ed92.svg"> -->
 
 <br />
 <p align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=fatouuuu&show_icons=true&locale=en&layout=compact" alt="fatouuuu" /></p>
