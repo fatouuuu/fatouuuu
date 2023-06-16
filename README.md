@@ -1,5 +1,5 @@
 <h3 align="left"> 👋🏿 Hi, I'm Fatou</h3>
-<p align="left">I'm passionate about frontend development and looking forward to building my skill level and confidence by creating projects I am passionate about.</p>
+<p align="left">I'm passionate about frontend development and looking forward to building my skill level and confidence.</p>
 
 
 - 🔭 I’m currently working on [a weather dashboard](https://github.com/fatouuuu/weather-dashboard)
