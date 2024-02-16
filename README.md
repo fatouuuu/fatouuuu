@@ -2,9 +2,9 @@
 <p align="left">I'm passionate about frontend development and looking forward to building my skill level and confidence.</p>
 
 
-- 🔭 I’m currently working on [a weather dashboard](https://github.com/fatouuuu/weather-dashboard)
+- 🔭 I’m currently working on [a rental property management system](https://github.com/fatouuuu/rpms)
 
-- 🌱 I’m currently learning **Ruby on Rails** 
+- 🌱 I’m currently learning **Laravel** 
 
 - 📫 How to reach me: **fatou.sahro@gmail.com**
 
