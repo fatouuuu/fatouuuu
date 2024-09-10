@@ -1,8 +1,8 @@
 <h3 align="left"> 👋🏿 Hi, I'm Fatou</h3>
-<p align="left">I'm passionate about frontend development and looking forward to building my skill level and confidence.</p>
+<!-- <p align="left">I'm passionate about frontend development and looking forward to building my skill level and confidence.</p> -->
 
 
-- 🔭 I’m currently working on [a rental property management system](https://github.com/fatouuuu/rpms)
+<!-- - 🔭 I’m currently working on [a rental property management system](https://github.com/fatouuuu/rpms)
 
 - 🌱 I’m currently learning **Laravel** 
 
